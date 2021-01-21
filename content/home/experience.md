@@ -26,15 +26,15 @@ experience:
     company: Facebook
     company_url: ''
     location: Seattle
-    date_start: '2020-05'
-    date_end: '2020-08'
+    date_start: 'May 2020'
+    date_end: 'Aug 2020'
     description: Evaluate syntactic similarity based test selection model
         
   - title: Student
     company: University of Texas at Dallas
     company_url: ''
     location: Dallas
-    date_start: '2017-01'
+    date_start: 'Jan 2017'
     date_end: ''
     description: PhD candicate in Computer Science department
 
@@ -42,7 +42,7 @@ experience:
     company: University of Electronic Science and Technology of China 
     company_url: ''
     location: Chengdu, China
-    date_start: '2012-08'
-    date_end: '2016-06'
+    date_start: 'Aug 2012'
+    date_end: 'June 2016'
     description: 
 ---
